@@ -11,18 +11,19 @@ How many short action movies (less than 90 minutes) were released in the 1990s? 
 Data
 The analysis is performed on the netflix_data.csv file. This dataset contains information about shows available on Netflix. The relevant columns for this analysis are:
 
-Column	Description
-show_id	The ID of the show
-type	Type of show (e.g., Movie, TV Show)
-title	Title of the show
-director	Director of the show
-cast	Cast of the show
-country	Country of origin
-date_added	Date added to Netflix
-release_year	Year of original release
-duration	Duration of the show in minutes
-description	Description of the show
-genre	Show genre
+| Column | Description |
+| :--- | :--- |
+| `show_id` | The ID of the show |
+| `type` | Type of show (e.g., Movie, TV Show) |
+| `title` | Title of the show |
+| `director` | Director of the show |
+| `cast` | Cast of the show |
+| `country` | Country of origin |
+| `date_added` | Date added to Netflix |
+| `release_year` | Year of original release |
+| `duration` | Duration of the show in minutes |
+| `description` | Description of the show |
+| `genre` | Show genre |
 
 Export to Sheets
 Results
